@@ -1,2 +1,7 @@
+POR MAIS INFORMAÇÕES LER O 'READ ME': 'https://raw.githubusercontent.com/nevvrin/blackwaterlillies/main/README.md'
+FOR MORE INFO SEE 'READ ME': 'https://raw.githubusercontent.com/nevvrin/blackwaterlillies/main/README.md'  
+
+/*CODE*/
+
 <link href="//dl.dropbox.com/s/56s6gii32br10k4/bwl.css?dl=0" rel="stylesheet" type="text/css" />
 <center><div id="bwl" style="--bg: #COR DO BACKGROUND; --border: #A COR DA BORDA; --cl1: #COR UM; --cl2: #COR DOIS; --font: #COR DA FONTE; --img: url(LINK DA IMAGEM);"><div class="wtr"><h1>TITULO CURTO</h1><h2>TITULO LONGO <b>COM COR DE DESTAQUE 2</b> CONTINUA AQUI</h2><tri></tri><nvr><div class="wimg"></div></nvr><tris></tris></div><div class="wtxt">SEU TEXTO AQUI <b>NEGRITO</b> <strike>CORTADO</strike> <a href="/">LINK</a> <i>ITALICO</i> <hl>SEU HIGHLIGHT</hl> <u>SUBLINHADO</u></div><div class="wtgs"><b>TAG 1</b> <b>TAG 2</b> <b>TAG 3</b> <b>TAG 4</b> <b>TAG 5</b></div></div></center>
